@@ -1,3 +1,15 @@
+# TCP Chat Programs: From Single to Multi-Client Solutions
+
+This project encompasses the implementation of two progressive TCP chat systems:
+
+1. **Task 1**: A basic 1:1 TCP chat program that establishes a reliable connection between a client and a server for text message exchange.
+2. **Task 2**: An advanced multi-client chat system that supports simultaneous connections, real-time message broadcasting, user commands, and AI-powered search functionality.
+
+Each program demonstrates the evolution of functionality, scalability, and user interactivity while maintaining robust TCP communication principles.
+
+---
+---
+
 # Task 1: 1:1 TCP Chat Program
 
 ## Overview
