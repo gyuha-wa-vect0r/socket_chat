@@ -65,6 +65,9 @@ Task 1 involves implementing a 1:1 chat program between a client and server usin
    - The client or server disconnects safely, closing the corresponding socket and terminating the program.
    - Robust exception handling ensures system stability during unexpected disconnections.
 
+---
+---
+
 # Task 2: Multi-Client Chat Program
 
 ## Overview
